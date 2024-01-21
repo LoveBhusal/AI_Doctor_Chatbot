@@ -7,3 +7,4 @@ Implemented a signup and login page for user authentication for the application,
 Implemented OpenAI API to harness advanced natural language processing capabilities for effective communication and understanding of user queries.
 
 Leveraged fine-tuning techniques on the OpenAI API to train the chatbot to develop accurate diagnosis and treatment plans while strictly answering health-related questions only.
+ 
