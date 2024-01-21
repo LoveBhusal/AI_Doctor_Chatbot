@@ -8,4 +8,4 @@ Implemented OpenAI API to harness advanced natural language processing capabilit
 
 Leveraged fine-tuning techniques on the OpenAI API to train the chatbot to develop accurate diagnosis and treatment plans while strictly answering health-related questions only.
  
-![Screenshot](signup.png)
+![Screenshot](signup.PNG)
